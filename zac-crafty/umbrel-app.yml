@@ -41,6 +41,6 @@ gallery:
 releaseNotes: >-
   Version 4.9.0 added support for Hytale servers.
 dependencies:
-path: "https://umbrel.local:18443"
+path: ""
 defaultUsername: "admin"
 defaultPassword: ""
