@@ -4,4 +4,6 @@ Welcome !
 
 This is an app repository for [Umbrel OS](https://umbrel.com/umbrelos).
 
-It doesnt contain a lot of app since its main use is just apps that Zac0511 uses, but you can also use it for yourself if you want to.
+> [!NOTE]
+> This repository is not made to be used by everyone, as app config may be modifed speficially for my local network.
+> The only reason this repository is public is so that my Umbrel server can access it, but some things may not work if you use this repo on your Umbrel.
